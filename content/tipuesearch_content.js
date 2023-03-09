@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n memer \n 41023221\xa0 陳冠翰 \n 41023228\xa0 陳瑨維 \n', 'tags': '', 'url': 'About.html'}, {'title': '2b-pj1bg22', 'text': '組長 41023228\xa0 陳瑨維 \n 組員 41023221\xa0 陳冠翰', 'tags': '', 'url': '2b-pj1bg22.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n member \n 41023221\xa0 陳冠翰 \n 41023228\xa0 陳瑨維 \n', 'tags': '', 'url': 'About.html'}, {'title': '2b-pj1bg22', 'text': '組長 41023228\xa0 陳瑨維 \n 組員 41023221\xa0 陳冠翰', 'tags': '', 'url': '2b-pj1bg22.html'}]};
